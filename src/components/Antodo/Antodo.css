@@ -1,0 +1,7 @@
+.Antodo {
+  color: var(--text_primary);
+
+  @media (max-width: 375px) {
+    color: var(--text_secondary);
+  }
+}
