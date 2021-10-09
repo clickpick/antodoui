@@ -1,0 +1,10 @@
+{
+  "extends": "@clickpick",
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "tsconfigRootDir": "."
+  },
+  "rules": {
+    "@typescript-eslint/no-magic-numbers": 0
+  }
+}
